@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Declare two integer typed variables and assign the same value to both
-        int num1 = 10;
+        int num1 = 12;
         int num2 = 10;
 
         // Create an if statement to check if the numbers are equal
